@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/IMG_7559.jpg'>
+<br/><img src='/images/banner.png'>
 
 My Passion
 ======
